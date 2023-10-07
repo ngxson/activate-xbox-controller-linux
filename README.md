@@ -21,10 +21,14 @@ Why rust? Because I don't want to mess up with my system. It doesn't make much s
 
 With this rust version, you can compile once (using a docker container or a VM), then run without any dependency.
 
-Or even easier, just download the pre-compiled binary in **Release** section of this repo.
+Or even easier, just download the pre-built binary in **Release** section of this repo.
 
 To run it:
 
 ```bash
 ./activate-xbox-controller-linux
 ```
+
+## Download pre-built version
+
+Please go to: [Release](https://github.com/ngxson/activate-xbox-controller-linux/releases)
