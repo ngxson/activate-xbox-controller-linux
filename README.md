@@ -26,7 +26,7 @@ Or even easier, just download the pre-built binary in **Release** section of thi
 To run it:
 
 ```bash
-./activate-xbox-controller-linux
+sudo ./activate-xbox-controller-linux
 ```
 
 ## Download pre-built version
