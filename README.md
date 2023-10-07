@@ -29,6 +29,14 @@ To run it:
 sudo ./activate-xbox-controller-linux
 ```
 
+## How to build
+
+```bash
+cargo build --release
+```
+
+The ourput binary can be found in `target/release/activate-xbox-controller-linux`
+
 ## Download pre-built version
 
 Please go to: [Release](https://github.com/ngxson/activate-xbox-controller-linux/releases)
