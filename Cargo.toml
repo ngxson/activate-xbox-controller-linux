@@ -1,0 +1,12 @@
+[package]
+name    = "activate-xbox-controller-linux"
+version = "0.1.0"
+authors = ["Xuan Son NGUYEN <contact@ngxson.com>"]
+edition = "2021"
+
+[[bin]]
+name = "activate-xbox-controller-linux"
+path = "main.rs"
+
+[dependencies]
+rusb = "0.9"
